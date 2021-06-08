@@ -1,1 +1,1 @@
-echo '4'
+wc -l "input.txt">"output.txt"
