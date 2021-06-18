@@ -42,6 +42,8 @@ public class Ticket
                     System.out.println("No more tickets to be served");
                 }
             }
+            else
+                System.exit(0);
            
         }
         else
