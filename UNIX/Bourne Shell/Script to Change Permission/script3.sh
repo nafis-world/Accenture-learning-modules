@@ -8,6 +8,6 @@ if [ -e $f ]; then
     else
         echo "File does not Exist" && exit
     fi 
-    done
+done
     
     
